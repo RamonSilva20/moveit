@@ -1,0 +1,28 @@
+<script>
+    export let challengesCompleted = 0;
+</script>
+
+<div class="completedChallengesContainer">
+    <span>Desafios completos</span>
+    <span>{challengesCompleted}</span>
+</div>
+
+<style>
+    .completedChallengesContainer {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin: 3.5rem 0;
+        padding-bottom: 1rem;
+        border-bottom: 1px solid #d7d8da;
+        font-weight: 500;
+    }
+
+    .completedChallengesContainer span:first-child {
+        font-size: 1.25rem;
+    }
+
+    .completedChallengesContainer span:last-child {
+        font-size: 1.5rem;
+    }
+</style>
