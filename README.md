@@ -13,12 +13,12 @@
 <br/>
 
 <p align="center">
-    <img alt="Move.it" src="public/github/print.png" width="80%">
+    <img alt="Move.it" src="public/github/print.png" width="100%">
 </p>
 
 <br/>
 
-## 💻 PROJETO
+## PROJETO
 
 O Move.it é um app que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador. A cada 25 minutos (ou seja, um ciclo), um sinal sonoro toca e com ele vem um desafio para a pessoa realizar.
 
@@ -26,12 +26,7 @@ O Move.it é um app que une a técnica de Pomodoro com a realização de exercí
 
 ## TECNOLOGIAS
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- Html
-- Css
-- Javascript
-- [Svelte](https://svelte.dev/)
+Esse projeto foi desenvolvido utilizando o framework [Svelte](https://svelte.dev/). Diferente de outros frameworks tradicionais como React e Vue, <b>Svelte não utiliza Virtual DOM, o bundle size é significantemente menor e o melhor, você escreve menos código :)</b>
 
 <br/><br/>
 
